@@ -9,6 +9,7 @@ Project Management System is the website that provides a platform to the student
 5.	Less time consuming
 
 #Steps to install
+
 Download Project Source Code from here.
 Paste the Folder in your xampp/htdocs/
 Open your Localhost SQL and create Database Name as pms
